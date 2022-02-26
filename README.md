@@ -1,3 +1,7 @@
+# Reborn
+Project Reborn, give everything you don't need a second life. Or just find how to fix it.
+Event: hack4future-thecocktail 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
