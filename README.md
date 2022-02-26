@@ -1,5 +1,5 @@
 # Reborn
-Project Reborn, give everything you don't need a second life. Or just find how to fix it.
+Project Reborn, give everything you don't need a second life. Or just find how to fix it.  
 Event: hack4future-thecocktail 
 
 # Getting Started with Create React App
